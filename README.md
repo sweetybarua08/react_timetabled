@@ -1,8 +1,9 @@
-# React + Vite
+This is a itinerary, made with React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#How to open this file?
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Open this on your vscode.
+Navigate to terminal.
+run> npm run dev
+You should see the porject in your localhost.
+Thank You!
